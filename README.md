@@ -54,3 +54,4 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 1.  images was missing descriptive alt tags which i ammended 
 2.  i have added samentic htmls elements instead of certain divs. i have added a header, nave, section, aside and a footer.
 3.  CHANGED THE TITLE TO MAKE IT MORE DESCRIPTIVE
+4.  included an id tag to make the link accessible for the "online-reputation -management"
