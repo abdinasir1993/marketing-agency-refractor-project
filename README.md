@@ -55,3 +55,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 2.  i have added samentic htmls elements instead of certain divs. i have added a header, nave, section, aside and a footer.
 3.  CHANGED THE TITLE TO MAKE IT MORE DESCRIPTIVE
 4.  included an id tag to make the link accessible for the "online-reputation -management"
+5. i have edited the previous classes on css to update to correct layout. i have edited it to nav, nav ul and nav ul li. this has resulted in the bar nav error to be corrected from the previous classes.
+6. - i have changed the repeating codes on css to one code. for benefits- lead, benefit-brands and benefit-code to just benefits. including the h3 and images because the code was being repeated on all where one sufficed.
+   - search engine optimaization, online-reputation-management and social-media-marketing all shared the same rules, so i put it all in the content class within section.
+   - i have changed all the rules on img and h2 to .content h2 and content imge
+   
