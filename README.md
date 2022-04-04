@@ -59,4 +59,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 6. - i have changed the repeating codes on css to one code. for benefits- lead, benefit-brands and benefit-code to just benefits. including the h3 and images because the code was being repeated on all where one sufficed.
    - search engine optimaization, online-reputation-management and social-media-marketing all shared the same rules, so i put it all in the content class within section.
    - i have changed all the rules on img and h2 to .content h2 and content imge
-   
+   - after running through some error returned search engine optimaization, online-reputation-management and social-media-marketing to original code on css.
+   -
+
