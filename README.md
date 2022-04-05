@@ -60,5 +60,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
    - search engine optimaization, online-reputation-management and social-media-marketing all shared the same rules, so i put it all in the content class within section.
    - i have changed all the rules on img and h2 to .content h2 and content imge
    - after running through some error returned search engine optimaization, online-reputation-management and social-media-marketing to original code on css.
-   -
+   - created new class which is shared between search engine optimaization, online-reputation-management and social-media-marketing called content3. reduced and amended the class in css to just that one.
+   
 
