@@ -9,12 +9,12 @@ what i was tasked to do on this project was the following:
 - Ensure there are alt attributes for all images and keep it descriptive
 - Document title (head element) should be descriptive
 - Search Engine Optimisation nav link is broken (fix it)
-- Remove duplicate class names in CSS and replace with generic class name in HTM
+- Remove duplicate class names in CSS and replace with generic class name in HTMl
 
 
 ## link
 -github url: [https://github.com/abdinasir1993/marketing-agency-refractor-project](https://github.com/abdinasir1993/marketing-agency-refractor-project)
--deployed url:
+-deployed url:[https://abdinasir1993.github.io/marketing-agency-refractor-project/](https://abdinasir1993.github.io/marketing-agency-refractor-project/)
 
 
 
